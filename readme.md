@@ -24,4 +24,4 @@ Before using this application, ensure you have the following prerequisites insta
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/indigo-gst-invoice-scraper.git
+   git clone https://github.com/anishsingh935/scrapper.git
